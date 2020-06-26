@@ -1,0 +1,28 @@
+{
+"APIName": "user Waterfall API",
+"DateCreated": "2020-06-25T00:00:00.000Z",
+"DateModified": "2020-06-25T00:00:00.000Z",
+"Version": "1.0.0",
+"users": [
+{
+"userID": 1,
+"userName": "Adb"
+},
+{
+"userID": 2,
+"userName": "FBs"
+},
+{
+"userID": 3,
+"userName": "Vunglsdsde"
+},
+{
+"userID": 4,
+"userName": "InModsdsdsdbi"
+},
+{
+"userID": 5,
+"userName": "AdfColodsdsdsny"
+}
+]
+}
